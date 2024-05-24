@@ -1,6 +1,6 @@
 # Netflix-Clone and GitHub Introduction
 
-GitHub Commands
+### **GitHub Commands**
 1. git init - Creates a local directory.
 2. ls - LIsts all the files you have in your local directory
 3. ls -a - Lists all the files you have in your local directory including the hidden files
