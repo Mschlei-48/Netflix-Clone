@@ -7,4 +7,4 @@ GitHub Commands
 4. git add . - Tracks all your changes
 5. git reset - Removes the changes you made like un-adding changes.
 6. git commit -m "message" - Saves the chages you made for pushing to the remote repository
-7. 
+
