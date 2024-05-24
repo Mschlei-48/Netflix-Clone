@@ -1,0 +1,3 @@
+/* Here we are creating styles for tablets only */
+@media(max-width:768px) and (min-width:480px){
+}
