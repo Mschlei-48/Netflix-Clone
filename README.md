@@ -17,5 +17,6 @@
 15. ```git checkout <branch name>``` - This command switches to a new branch. If you have a new branch or many branches, you can switch to any branch with this command and specify the branch name.
 16. ```git diff``` - With this command you can see the changes that were made to the files.
 17. ```git clone <url of remote repo>``` - With this command you are copying files from a remote repo to your local machine and also creating a git repository. So when you use this code there is no need for you to use git init as the cloned repo will already be a git repository. Also, you do not need to add/connect to the remote repo using ```git remote add origin <url of remote repo>``` because you are already connected to it when you clone.
+18. ```git branch -d branch name```- This command deletes a specified branch.
     
 
